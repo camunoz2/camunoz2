@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm <Cristian /></h1>
 <h3 align="center">Coder // Teacher // Father // Bassist</h3>
 
-- 🔭 I’m currently working on [dayour.app](https://dayour-app.vercel.app/)
+- 🔭 I’m currently working on my portfolio
 
-- 🌱 I’m currently learning **React!! all the way**
+- 🌱 I’m currently learning **TDD all the way**
 
 - 👯 I’m looking to work on **An Awesome Web company as Front End**
 
