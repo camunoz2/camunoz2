@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my portfolio
 
-- 🌱 I’m currently learning **TDD all the way**
+- 🌱 I’m currently making a **pokemon memorize game**
 
 - 👯 I’m looking to work on **An Awesome Web company as Front End**
 
