@@ -1,27 +1,4 @@
-<h1 align="center">Hi 👋, I'm <Cristian /></h1>
-<h3 align="center">Coder // Teacher // Father // Bassist</h3>
-
-- 🔭 I’m currently working on my portfolio
-
-- 🌱 I’m currently making a **pokemon memorize game**
-
-- 👯 I’m looking to work on **An Awesome Web company as Front End**
-
-- 👨‍💻 All of my projects are available at [arjel.dev ---> In progress](arjel.dev ---> In progress)
-
-- 📝 I regularly write articles on [arjel.dev ---> In progress](arjel.dev ---> In progress)
-
-- 💬 Ask me about **React, JS, Unity**
-
-- 📫 How to reach me **camunoz2@gmail.com**
-
-- 📄 Know about my experiences [Founder of Indicestudio.cl a web agency, and currently fine tunning my abilities.](Founder of Indicestudio.cl a web agency, and currently fine tunning my abilities.)
-
-- ⚡ Fun fact **I am a fast and furious learner and hardworker**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# Hi! I'm Cristian M. Arjel / Fact: **I am a fast learner and willing to become a Awesome Front End Web Developer**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -173,14 +150,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-      alt="unity"
       width="40"
       height="40"
     />
