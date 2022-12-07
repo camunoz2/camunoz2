@@ -1,8 +1,8 @@
 # Hi! I'm Cristian M. Arjel
 
-## **I am a fast learner and willing to become a Awesome Front End Web Developer**
+## **Freelance Front End Developer**
 
-Welcome to my GitHub profile! I am a developer with a focus on front-end development, but I also have some experience with full-stack development. I have mostly gained experience through freelance work, but I am now looking to take the next step in my career as a developer by working with a team. If you have an opportunity that you think I could be a good fit for, please don't hesitate to reach out. I am eager to use my skills to help create amazing projects!
+Welcome to my GitHub profile! I am a developer focused on front-end development, but I also have some experience building full-stack apps. I mostly do freelance work, but I am now looking forward to taking the next step in my career as a developer by working with a team. If you have an opportunity that you think I could be a good fit for, please don't hesitate to reach out. I am eager to use my skills to help create great projects!
 
 ### My design tools
 
