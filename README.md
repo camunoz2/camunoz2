@@ -2,7 +2,7 @@
 
 ## **Freelance Front End Developer**
 
-Welcome to my GitHub profile! I am a developer focused on front-end development, but I also have some experience building full-stack apps. I mostly do freelance work, but I am now looking forward to taking the next step in my career as a developer by working with a team. If you have an opportunity that you think I could be a good fit for, please don't hesitate to reach out. I am eager to use my skills to help create great projects!
+Coordinador tecnológico de un liceo bicentenario, lidero la creación de aplicaciones fullstack para el ámbito educativo empleando react y typescript para impulsar soluciones innovadoras.
 
 ### My design tools
 
