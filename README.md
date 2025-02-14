@@ -1,7 +1,3 @@
-Here’s an improved version of your GitHub profile README, highlighting your skills, experience, and passion for web development:  
-
----
-
 # 👋 Hi! I'm Cristian M. Arjel  
 
 ## **Web Developer | Fullstack Engineer**  
