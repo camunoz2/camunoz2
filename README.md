@@ -27,29 +27,6 @@ Vitest · Jest · Testing Library · GitHub Actions
 
 ---
 
-## Selected Projects
-
-### Pichiche — Browser game for an indie band
-**Problem:** no one visits band websites. A traditional site would have been wasted budget.  
-**Solution:** a Guitar Hero-style browser game that plays the band's own songs, captures fan emails on completion, and builds an owned mailing list — no algorithm dependency.  
-`Three.js · Web Audio API · Serverless email capture · Custom input engine`
-
-### Casa de la Luna — Full operations backend for a wellness center
-**Problem:** every booking, payment, and coordination message ran through a single WhatsApp account. The business couldn't function without one person present.  
-**Solution:** reservation system with booking calendar, payment gateway, and admin backend — replacing the entire manual operation.  
-`Next.js · Prisma · PostgreSQL · Transbank/WebPay integration`
-
-### Alma de Partera — Clinical tool for a midwife practice *(in development)*
-**Problem:** every midwife site looks the same — services list and a contact form.  
-**Solution:** a pregnancy week calculator embedded into the site (current week, what's happening in the body, what's coming, when to book). Turns a presence site into a tool patients use for nine months.  
-`Astro · React · Custom calculation engine · Schema.org structured data`
-
-### Arjeldev — Personal dev blog
-Personal blog with 3D visual elements. Built with Astro, React components, and Blender-exported assets.  
-[arjeldev.vercel.app](https://arjeldev.vercel.app/)
-
----
-
 ## Experience
 
 **Founder — Arjelweb** `2026 – present`  
