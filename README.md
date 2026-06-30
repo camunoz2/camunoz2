@@ -64,4 +64,4 @@ I don't need a PM to talk to clients. I diagnose the problem first, then build.
 
 ---
 
-`camunoz2@gmail.com` · [github.com/camunoz2](https://github.com/camunoz2) · [arjelweb.cl](https://arjelweb.cl)
+`cristian@arjelweb.com` · [github.com/camunoz2](https://github.com/camunoz2) · [arjelweb.cl](https://arjelweb.com)
